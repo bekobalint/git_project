@@ -16,4 +16,5 @@ $c  = 12;
 $x = 35;
 $y = 19;
 print "<br /><br />" . $x - $y;
+//Ez a kivonás ág
 ?>
